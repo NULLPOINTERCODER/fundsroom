@@ -9,7 +9,7 @@ A production-ready, full-stack **Wholesale & Distribution ERP / CRM System** bui
 > [!IMPORTANT]  
 > **Paste Your Live Deployment Links Below After Deploying to Vercel/Render/Railway/AWS:**
 
-- **Live Application Frontend**: `https://your-frontend-domain.vercel.app` *(Replace with your live URL)*
+- **Live Application Frontend**: `https://fundsroom-liart.vercel.app/`
 - **Live Backend API**: `https://fundsroom-20u1.onrender.com/api`
 - **API Health Check**: `https://fundsroom-20u1.onrender.com/api/health`
 - **PostgreSQL Database**: Deployed on **Neon PostgreSQL (AWS ap-southeast-1)**

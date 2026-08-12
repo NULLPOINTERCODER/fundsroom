@@ -10,7 +10,7 @@ A production-ready, full-stack **Wholesale & Distribution ERP / CRM System** bui
 | :--- | :--- |
 | **Live Frontend** | https://fundsroom-liart.vercel.app/ |
 | **Live Backend API** | https://fundsroom-20u1.onrender.com/api |
-| **API Health Check** | https://fundsroom-20u1.onrender.com/api/health |
+
 | **PostgreSQL Database** | Neon PostgreSQL — AWS ap-southeast-1 |
 
 ---
